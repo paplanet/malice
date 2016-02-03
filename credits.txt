@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Pierre-Alexandre Plante
+=======
+Mr. logs 
+>>>>>>> logs
