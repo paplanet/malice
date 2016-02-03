@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 same: master.txt
+=======
+same : from logs
+>>>>>>> logs
